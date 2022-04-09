@@ -29,6 +29,9 @@ body {
 	text-decoration: none;
 	color: black;
 }
+main h1 {
+	text-align: center;
+}
 .paragrafe {
 	padding: 20px;
 	font-size: 22px;
@@ -114,15 +117,11 @@ body {
 	text height: 50px;
 	color: black;
 	line-height: 2;
-	font-size: 25px;
+	font-size: 25px; 
 }
 
 html { scroll-behavior: smooth; }
 	
-	
-
-
-
 .subsol {
 	height: 300px;
 	width: 100%;
